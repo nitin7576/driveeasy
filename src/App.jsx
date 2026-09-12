@@ -4,7 +4,7 @@ import { NotificationProvider } from './context/NotificationContext';
 import AppRoutes from './routes/AppRoutes';
 import Navbar from './components/layout/Navbar';
 import Footer from './components/layout/Footer';
-
+//changes
 export default function App() {
   return (
     <BrowserRouter>
