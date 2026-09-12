@@ -5,6 +5,7 @@ import AppRoutes from './routes/AppRoutes';
 import Navbar from './components/layout/Navbar';
 import Footer from './components/layout/Footer';
 //changes
+// feature authentication
 export default function App() {
   return (
     <BrowserRouter>
